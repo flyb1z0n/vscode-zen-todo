@@ -1,0 +1,8 @@
+Preparation:
+    ☐ make a hello world extension
+    ☐ investigate how to debug extension
+
+
+References:
+    * https://github.com/sandy081/vscode-todotasks
+    * https://github.com/fabiospampinato/vscode-todo-plus
