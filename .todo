@@ -1,6 +1,8 @@
 Preparation:
-    ☐ make a hello world extension
-    ☐ investigate how to debug extension
+    ✔ make a hello world extension @done(23-10-21 00:29)
+    ✔ investigate how to debug extension @done(23-10-21 00:29)
+    ☐ hook extension to the specific type
+    ☐ hook up hotkeys to 
 
 
 References:
